@@ -1,0 +1,9 @@
+{
+  "name": "Planeteers",
+  "version": "1.0.5",
+  "title": "Planeteers - Pollution Control",
+  "author": "YourName",
+  "factorio_version": "2.0",
+  "description": "Adds tree seeds and new ways to control pollution, inspired by the 90's cartoon Planeteers.",
+  "dependencies": ["base >= 2.0"]
+}
